@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1378818951 source:/Users/Joao/Documents/FundProgramacao/ProjetosComputacionais/PCPImagens/processaImagem.c
+	<stdio.h>
+	<stdlib.h>
+
